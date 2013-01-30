@@ -1,9 +1,0 @@
-<snippet>
-<content><![CDATA[
-<?${TM_PHP_OPEN_TAG:php} while (\$row = \$${1:result}->fetch_assoc()): ?>
-	$2
-<?${TM_PHP_OPEN_TAG:php} endwhile ?>
-]]></content>
-    <tabTrigger>while</tabTrigger>
-    <scope>text.html - source</scope>
-</snippet>

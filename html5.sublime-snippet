@@ -1,4 +1,5 @@
-<snippet>
+<sni
+	ppet>
 <content><![CDATA[
 <!DOCTYPE HTML>
 <html>
@@ -11,10 +12,6 @@
 		${3:content}
 	</body>
 </html>
-]]></content>
-<<<<<<< HEAD
+]]></content>	<tabTrigger>html5</tabTrigger>
 	<tabTrigger>html5</tabTrigger>
-=======
-<tabTrigger>html5</tabTrigger>
->>>>>>> 009ca67e6d142e475d0d00b54b92b25598d76cad
 </snippet>

@@ -6,4 +6,4 @@ This is a collection of the snippets and other misc settings I have created in s
 Created by [Ryan Beasse](http://ryanbeasse.com)
 
 ###License
-Enjoy!
+:hamburger: :ice_cream:  :cake: 

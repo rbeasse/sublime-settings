@@ -1,13 +1,10 @@
 <snippet>
-	<content><![CDATA[
+<content><![CDATA[
 <xsd:simpleType name="${1:name}">
 	<xsd:restriction base="xsd:${2:type}">
 		<xsd:pattern value="${3:regexp}" />
 	</xsd:restriction>
 </xsd:simpleType>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>pattern</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

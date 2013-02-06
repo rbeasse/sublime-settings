@@ -4,7 +4,11 @@
 	[
 		"FTPSync",
 		"Git",
+		"Github Tools",
+		"JSLint",
 		"Package Control",
-		"RailsCasts Colour Scheme"
+		"RailsCasts Colour Scheme",
+		"SublimeCodeIntel",
+		"VBScript"
 	]
 }
